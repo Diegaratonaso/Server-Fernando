@@ -1,66 +1,93 @@
-[21:36:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:36:12] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[21:36:13] [Worker-Main-1/INFO]: Loaded 7 recipes
-[21:36:15] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[21:36:15] [Server thread/INFO]: Loading properties
-[21:36:15] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[21:36:15] [Server thread/INFO]: Debug logging is disabled
-[21:36:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:36:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:36:15] [Server thread/INFO]: Default game type: SURVIVAL
-[21:36:15] [Server thread/INFO]: Generating keypair
-[21:36:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:36:15] [Server thread/INFO]: Using epoll channel type
-[21:36:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:36:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:36:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:36:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:36:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:36:15] [Server thread/INFO]: Preparing level "world"
-[21:36:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:36:16] [Server thread/INFO]: Preparing spawn area: 0%
-[21:36:16] [Server thread/INFO]: Preparing spawn area: 0%
-[21:36:16] [Server thread/INFO]: Time elapsed: 652 ms
-[21:36:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:36:17] [Server thread/INFO]: Time elapsed: 269 ms
-[21:36:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:36:18] [Server thread/INFO]: Time elapsed: 1377 ms
-[21:36:18] [Server thread/INFO]: Running delayed init tasks
-[21:36:18] [Server thread/INFO]: Done (3.528s)! For help, type "help"
-[21:36:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[21:36:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[21:36:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[21:36:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[21:36:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[21:36:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[21:36:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
-[21:36:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
-[21:36:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[21:36:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[21:36:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.25
-[21:36:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[21:36:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[21:36:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
-[21:36:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[21:36:18] [Server thread/INFO]: Timings Reset
-[21:42:45] [User Authenticator #1/INFO]: UUID of player Rip_wazzin is 0e1f8369-838e-323b-a44f-1ba2371b07ca
-[21:42:45] [Server thread/INFO]: Rip_wazzin joined the game
-[21:42:45] [Server thread/INFO]: Rip_wazzin[/127.107.91.183:52391] logged in with entity id 210 at ([world]-115.5, 63.0, 56.5)
-[21:44:22] [Server thread/INFO]: Rip_wazzin lost connection: Disconnected
-[21:44:22] [Server thread/INFO]: Rip_wazzin left the game
-[21:44:29] [Server thread/INFO]: Stopping the server
-[21:44:29] [Server thread/INFO]: Stopping server
-[21:44:29] [Server thread/INFO]: Saving players
-[21:44:30] [Server thread/INFO]: Saving worlds
-[21:44:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:44:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:44:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:44:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:44:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:44:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:44:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:44:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:44:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:44:32] [Server thread/INFO]: Flushing Chunk IO
-[21:44:32] [Server thread/INFO]: Closing Thread Pool
-[21:44:32] [Server thread/INFO]: Closing Server
+[21:54:42] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:54:43] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[21:54:44] [Worker-Main-1/INFO]: Loaded 7 recipes
+[21:54:45] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[21:54:45] [Server thread/INFO]: Loading properties
+[21:54:45] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[21:54:45] [Server thread/INFO]: Debug logging is disabled
+[21:54:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:54:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:54:45] [Server thread/INFO]: Default game type: SURVIVAL
+[21:54:45] [Server thread/INFO]: Generating keypair
+[21:54:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:54:46] [Server thread/INFO]: Using epoll channel type
+[21:54:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:54:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:54:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:54:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:54:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:54:46] [Server thread/INFO]: Preparing level "world"
+[21:54:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:54:47] [Server thread/INFO]: Preparing spawn area: 0%
+[21:54:47] [Server thread/INFO]: Preparing spawn area: 0%
+[21:54:47] [Server thread/INFO]: Time elapsed: 693 ms
+[21:54:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:54:47] [Server thread/INFO]: Time elapsed: 322 ms
+[21:54:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:54:49] [Server thread/INFO]: Time elapsed: 1398 ms
+[21:54:49] [Server thread/INFO]: Running delayed init tasks
+[21:54:49] [Server thread/INFO]: Done (3.740s)! For help, type "help"
+[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.25
+[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[21:54:49] [Server thread/INFO]: Timings Reset
+[21:55:14] [User Authenticator #1/INFO]: UUID of player Rip_wazzin is 0e1f8369-838e-323b-a44f-1ba2371b07ca
+[21:55:14] [Server thread/INFO]: Rip_wazzin joined the game
+[21:55:15] [Server thread/INFO]: Rip_wazzin[/127.107.91.183:38209] logged in with entity id 302 at ([world]-105.81762609902074, 64.0, 38.64840138208533)
+[21:55:15] [Server thread/INFO]: Rip_wazzin lost connection: Disconnected
+[21:55:15] [Server thread/INFO]: Rip_wazzin left the game
+[21:56:12] [User Authenticator #1/INFO]: UUID of player Rip_wazzin is 0e1f8369-838e-323b-a44f-1ba2371b07ca
+[21:56:12] [Server thread/INFO]: Rip_wazzin joined the game
+[21:56:12] [Server thread/INFO]: Rip_wazzin[/127.107.91.183:47949] logged in with entity id 306 at ([world]-105.81762609902074, 64.0, 38.64840138208533)
+[21:56:16] [Server thread/INFO]: Rip_wazzin lost connection: Disconnected
+[21:56:16] [Server thread/INFO]: Rip_wazzin left the game
+[21:56:27] [User Authenticator #1/INFO]: UUID of player skketik is ea893514-20cb-3175-ab36-6cda669c962d
+[21:56:27] [Server thread/INFO]: skketik joined the game
+[21:56:27] [Server thread/INFO]: skketik[/127.147.106.30:58641] logged in with entity id 323 at ([world]-110.5, 73.0, 74.5)
+[21:56:40] [Server thread/INFO]: skketik lost connection: Disconnected
+[21:56:40] [Server thread/INFO]: skketik left the game
+[21:56:54] [User Authenticator #1/INFO]: UUID of player skketik is ea893514-20cb-3175-ab36-6cda669c962d
+[21:56:54] [Server thread/INFO]: skketik joined the game
+[21:56:54] [Server thread/INFO]: skketik[/127.147.106.30:33109] logged in with entity id 396 at ([world]-106.31041359666477, 73.0, 70.92909054059865)
+[21:57:12] [User Authenticator #1/INFO]: UUID of player Rip_wazzin is 0e1f8369-838e-323b-a44f-1ba2371b07ca
+[21:57:12] [Server thread/INFO]: Rip_wazzin joined the game
+[21:57:12] [Server thread/INFO]: Rip_wazzin[/127.107.91.183:55245] logged in with entity id 462 at ([world]-106.53782498004614, 64.0, 37.30000001192093)
+[21:57:13] [User Authenticator #1/INFO]: UUID of player guater4feo is 9ff619b0-0c0a-36ac-8799-844d1d186d94
+[21:57:14] [Server thread/INFO]: guater4feo joined the game
+[21:57:14] [Server thread/INFO]: guater4feo[/127.234.49.10:41683] logged in with entity id 496 at ([world]-108.5, 64.0, 60.5)
+[21:57:43] [Server thread/INFO]: skketik was slain by guater4feo
+[21:58:01] [Server thread/INFO]: guater4feo was slain by skketik
+[21:58:12] [Server thread/INFO]: Stopping the server
+[21:58:12] [Server thread/INFO]: Stopping server
+[21:58:12] [Server thread/INFO]: Saving players
+[21:58:12] [Server thread/INFO]: Rip_wazzin lost connection: Server closed
+[21:58:12] [Server thread/INFO]: Rip_wazzin left the game
+[21:58:12] [Server thread/INFO]: skketik lost connection: Server closed
+[21:58:12] [Server thread/INFO]: skketik left the game
+[21:58:12] [Server thread/INFO]: guater4feo lost connection: Server closed
+[21:58:12] [Server thread/INFO]: guater4feo left the game
+[21:58:12] [Server thread/INFO]: Saving worlds
+[21:58:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:58:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:58:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:58:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:58:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:58:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:58:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:58:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:58:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:58:14] [Server thread/INFO]: Flushing Chunk IO
+[21:58:14] [Server thread/INFO]: Closing Thread Pool
+[21:58:14] [Server thread/INFO]: Closing Server
