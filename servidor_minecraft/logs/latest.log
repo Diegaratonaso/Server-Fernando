@@ -1,93 +1,288 @@
-[21:54:42] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:54:43] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[21:54:44] [Worker-Main-1/INFO]: Loaded 7 recipes
-[21:54:45] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[21:54:45] [Server thread/INFO]: Loading properties
-[21:54:45] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[21:54:45] [Server thread/INFO]: Debug logging is disabled
-[21:54:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:54:45] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:54:45] [Server thread/INFO]: Default game type: SURVIVAL
-[21:54:45] [Server thread/INFO]: Generating keypair
-[21:54:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:54:46] [Server thread/INFO]: Using epoll channel type
-[21:54:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:54:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:54:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:54:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:54:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:54:46] [Server thread/INFO]: Preparing level "world"
-[21:54:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:54:47] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:47] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:47] [Server thread/INFO]: Time elapsed: 693 ms
-[21:54:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:54:47] [Server thread/INFO]: Time elapsed: 322 ms
-[21:54:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:54:49] [Server thread/INFO]: Time elapsed: 1398 ms
-[21:54:49] [Server thread/INFO]: Running delayed init tasks
-[21:54:49] [Server thread/INFO]: Done (3.740s)! For help, type "help"
-[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
-[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
-[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.25
-[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
-[21:54:49] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[21:54:49] [Server thread/INFO]: Timings Reset
-[21:55:14] [User Authenticator #1/INFO]: UUID of player Rip_wazzin is 0e1f8369-838e-323b-a44f-1ba2371b07ca
-[21:55:14] [Server thread/INFO]: Rip_wazzin joined the game
-[21:55:15] [Server thread/INFO]: Rip_wazzin[/127.107.91.183:38209] logged in with entity id 302 at ([world]-105.81762609902074, 64.0, 38.64840138208533)
-[21:55:15] [Server thread/INFO]: Rip_wazzin lost connection: Disconnected
-[21:55:15] [Server thread/INFO]: Rip_wazzin left the game
-[21:56:12] [User Authenticator #1/INFO]: UUID of player Rip_wazzin is 0e1f8369-838e-323b-a44f-1ba2371b07ca
-[21:56:12] [Server thread/INFO]: Rip_wazzin joined the game
-[21:56:12] [Server thread/INFO]: Rip_wazzin[/127.107.91.183:47949] logged in with entity id 306 at ([world]-105.81762609902074, 64.0, 38.64840138208533)
-[21:56:16] [Server thread/INFO]: Rip_wazzin lost connection: Disconnected
-[21:56:16] [Server thread/INFO]: Rip_wazzin left the game
-[21:56:27] [User Authenticator #1/INFO]: UUID of player skketik is ea893514-20cb-3175-ab36-6cda669c962d
-[21:56:27] [Server thread/INFO]: skketik joined the game
-[21:56:27] [Server thread/INFO]: skketik[/127.147.106.30:58641] logged in with entity id 323 at ([world]-110.5, 73.0, 74.5)
-[21:56:40] [Server thread/INFO]: skketik lost connection: Disconnected
-[21:56:40] [Server thread/INFO]: skketik left the game
-[21:56:54] [User Authenticator #1/INFO]: UUID of player skketik is ea893514-20cb-3175-ab36-6cda669c962d
-[21:56:54] [Server thread/INFO]: skketik joined the game
-[21:56:54] [Server thread/INFO]: skketik[/127.147.106.30:33109] logged in with entity id 396 at ([world]-106.31041359666477, 73.0, 70.92909054059865)
-[21:57:12] [User Authenticator #1/INFO]: UUID of player Rip_wazzin is 0e1f8369-838e-323b-a44f-1ba2371b07ca
-[21:57:12] [Server thread/INFO]: Rip_wazzin joined the game
-[21:57:12] [Server thread/INFO]: Rip_wazzin[/127.107.91.183:55245] logged in with entity id 462 at ([world]-106.53782498004614, 64.0, 37.30000001192093)
-[21:57:13] [User Authenticator #1/INFO]: UUID of player guater4feo is 9ff619b0-0c0a-36ac-8799-844d1d186d94
-[21:57:14] [Server thread/INFO]: guater4feo joined the game
-[21:57:14] [Server thread/INFO]: guater4feo[/127.234.49.10:41683] logged in with entity id 496 at ([world]-108.5, 64.0, 60.5)
-[21:57:43] [Server thread/INFO]: skketik was slain by guater4feo
-[21:58:01] [Server thread/INFO]: guater4feo was slain by skketik
-[21:58:12] [Server thread/INFO]: Stopping the server
-[21:58:12] [Server thread/INFO]: Stopping server
-[21:58:12] [Server thread/INFO]: Saving players
-[21:58:12] [Server thread/INFO]: Rip_wazzin lost connection: Server closed
-[21:58:12] [Server thread/INFO]: Rip_wazzin left the game
-[21:58:12] [Server thread/INFO]: skketik lost connection: Server closed
-[21:58:12] [Server thread/INFO]: skketik left the game
-[21:58:12] [Server thread/INFO]: guater4feo lost connection: Server closed
-[21:58:12] [Server thread/INFO]: guater4feo left the game
-[21:58:12] [Server thread/INFO]: Saving worlds
-[21:58:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:58:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:58:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:58:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:58:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:58:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:58:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:58:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:58:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:58:14] [Server thread/INFO]: Flushing Chunk IO
-[21:58:14] [Server thread/INFO]: Closing Thread Pool
-[21:58:14] [Server thread/INFO]: Closing Server
+[22:03:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:03:13] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[22:03:15] [Worker-Main-1/INFO]: Loaded 7 recipes
+[22:03:16] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[22:03:16] [Server thread/INFO]: Loading properties
+[22:03:16] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[22:03:16] [Server thread/INFO]: Debug logging is disabled
+[22:03:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:03:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:03:16] [Server thread/INFO]: Default game type: SURVIVAL
+[22:03:16] [Server thread/INFO]: Generating keypair
+[22:03:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:03:17] [Server thread/INFO]: Using epoll channel type
+[22:03:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:03:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:03:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:03:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:03:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:03:17] [Server thread/INFO]: Preparing level "world"
+[22:03:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:03:18] [Server thread/INFO]: Preparing spawn area: 0%
+[22:03:18] [Server thread/INFO]: Preparing spawn area: 0%
+[22:03:18] [Server thread/INFO]: Time elapsed: 587 ms
+[22:03:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:03:19] [Server thread/INFO]: Preparing spawn area: 0%
+[22:03:19] [Server thread/INFO]: Preparing spawn area: 0%
+[22:03:19] [Server thread/INFO]: Preparing spawn area: 0%
+[22:03:19] [Server thread/INFO]: Preparing spawn area: 0%
+[22:03:20] [Worker-Main-1/INFO]: Preparing spawn area: 33%
+[22:03:20] [Server thread/INFO]: Time elapsed: 2306 ms
+[22:03:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:03:20] [Server thread/INFO]: Preparing spawn area: 0%
+[22:03:20] [Server thread/INFO]: Time elapsed: 186 ms
+[22:03:20] [Server thread/INFO]: Running delayed init tasks
+[22:03:21] [Server thread/INFO]: Done (4.336s)! For help, type "help"
+[22:03:21] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[22:03:21] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[22:03:21] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[22:03:21] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[22:03:21] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[22:03:21] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[22:03:21] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[22:03:21] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[22:03:21] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[22:03:21] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[22:03:21] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.25
+[22:03:21] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[22:03:21] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[22:03:21] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[22:03:21] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[22:03:21] [Server thread/INFO]: Timings Reset
+[22:03:39] [User Authenticator #1/INFO]: UUID of player Rip_wazzin is 0e1f8369-838e-323b-a44f-1ba2371b07ca
+[22:03:40] [Server thread/INFO]: Rip_wazzin joined the game
+[22:03:40] [Server thread/INFO]: Rip_wazzin[/127.107.91.183:60359] logged in with entity id 321 at ([world]-90.30000001192093, 72.0, 65.99800460412953)
+[22:03:57] [Server thread/INFO]: Made Rip_wazzin a server operator
+[22:04:09] [User Authenticator #1/INFO]: UUID of player guater4feo is 9ff619b0-0c0a-36ac-8799-844d1d186d94
+[22:04:09] [Server thread/INFO]: guater4feo joined the game
+[22:04:09] [Server thread/INFO]: guater4feo[/127.234.49.10:57097] logged in with entity id 388 at ([world]-119.75840388425337, 68.0, 98.97986578913043)
+[22:04:12] [Server thread/INFO]: Rip_wazzin was slain by Zombie
+[22:04:19] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode creative
+[22:04:19] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Creative Mode]
+[22:04:24] [Server thread/INFO]: Rip_wazzin issued server command: /time set day
+[22:04:24] [Server thread/INFO]: [Rip_wazzin: Set the time to 1000]
+[22:04:46] [Server thread/INFO]: guater4feo has made the advancement [Monster Hunter]
+[22:04:47] [User Authenticator #1/INFO]: UUID of player skketik is ea893514-20cb-3175-ab36-6cda669c962d
+[22:04:47] [Server thread/INFO]: skketik joined the game
+[22:04:47] [Server thread/INFO]: skketik[/127.147.106.30:43087] logged in with entity id 585 at ([world]-90.71202629476683, 73.0, 68.97749636992764)
+[22:05:36] [Server thread/INFO]: Rip_wazzin issued server command: /tp @a Rip_wazzin
+[22:05:36] [Server thread/INFO]: [Rip_wazzin: Teleported 3 entities to Rip_wazzin]
+[22:05:38] [Server thread/INFO]: guater4feo was slain by skketik
+[22:05:39] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode spectator
+[22:05:39] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Spectator Mode]
+[22:05:42] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode survival
+[22:05:42] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Survival Mode]
+[22:05:47] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode creative
+[22:05:47] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Creative Mode]
+[22:05:52] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode spectator
+[22:05:52] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Spectator Mode]
+[22:05:58] [Server thread/INFO]: Rip_wazzin issued server command: /tp @a Rip_wazzin
+[22:05:58] [Server thread/INFO]: [Rip_wazzin: Teleported 3 entities to Rip_wazzin]
+[22:06:09] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode creative
+[22:06:09] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Creative Mode]
+[22:07:01] [Server thread/INFO]: Rip_wazzin issued server command: /papi ecloud
+[22:07:05] [Server thread/INFO]: guater4feo was slain by skketik
+[22:07:06] [Server thread/INFO]: Rip_wazzin issued server command: /plugins
+[22:07:14] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode spectator
+[22:07:14] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Spectator Mode]
+[22:07:19] [Server thread/INFO]: Rip_wazzin issued server command: /tp @a Rip_wazzin
+[22:07:19] [Server thread/INFO]: [Rip_wazzin: Teleported 3 entities to Rip_wazzin]
+[22:07:22] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode creative
+[22:07:22] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Creative Mode]
+[22:08:02] [Server thread/INFO]: Rip_wazzin issued server command: /tp @a Rip_wazzin
+[22:08:02] [Server thread/INFO]: [Rip_wazzin: Teleported 3 entities to Rip_wazzin]
+[22:08:04] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode spectator
+[22:08:04] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Spectator Mode]
+[22:08:05] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode creative
+[22:08:05] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Creative Mode]
+[22:08:15] [Server thread/INFO]: skketik was slain by guater4feo
+[22:08:23] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode spectator
+[22:08:23] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Spectator Mode]
+[22:08:26] [Server thread/INFO]: Rip_wazzin issued server command: /tp @a Rip_wazzin
+[22:08:26] [Server thread/INFO]: [Rip_wazzin: Teleported 3 entities to Rip_wazzin]
+[22:08:29] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode survival
+[22:08:29] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Survival Mode]
+[22:08:31] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode creative
+[22:08:31] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Creative Mode]
+[22:09:05] [Server thread/INFO]: guater4feo was slain by skketik
+[22:09:31] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode spectator
+[22:09:31] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Spectator Mode]
+[22:09:35] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode adventure
+[22:09:35] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Adventure Mode]
+[22:09:38] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode creative
+[22:09:38] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Creative Mode]
+[22:10:04] [Server thread/INFO]: Rip_wazzin issued server command: /tp guater4feo Rip_wazzin
+[22:10:04] [Server thread/INFO]: [Rip_wazzin: Teleported guater4feo to Rip_wazzin]
+[22:10:10] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode adventure
+[22:10:10] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Adventure Mode]
+[22:10:12] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode survival
+[22:10:12] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Survival Mode]
+[22:10:14] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode creative
+[22:10:14] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Creative Mode]
+[22:10:16] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode spectator
+[22:10:16] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Spectator Mode]
+[22:10:18] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode creative
+[22:10:18] [Server thread/INFO]: [Rip_wazzin: Set own game mode to Creative Mode]
+[22:11:12] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode adventure guater4feo
+[22:11:12] [Server thread/INFO]: [Rip_wazzin: Set guater4feo's game mode to Adventure Mode]
+[22:11:16] [Server thread/INFO]: Rip_wazzin issued server command: /gamemode adventure skketik
+[22:11:16] [Server thread/INFO]: [Rip_wazzin: Set skketik's game mode to Adventure Mode]
+[22:12:40] [Server thread/INFO]: skketik issued server command: /kill
+[22:13:01] [Server thread/INFO]: skketik issued server command: /about
+[22:13:11] [Server thread/INFO]: Rip_wazzin issued server command: /
+[22:13:49] [Server thread/INFO]: skketik lost connection: Disconnected
+[22:13:49] [Server thread/INFO]: skketik left the game
+[22:13:52] [User Authenticator #2/INFO]: UUID of player skketik is ea893514-20cb-3175-ab36-6cda669c962d
+[22:13:52] [Server thread/INFO]: skketik joined the game
+[22:13:52] [Server thread/INFO]: skketik[/127.147.106.30:59363] logged in with entity id 1870 at ([world]-120.30000001192093, 87.0, 71.20122737031119)
+[22:14:27] [Server thread/INFO]: Rip_wazzin issued server command: /time set day
+[22:14:27] [Server thread/INFO]: [Rip_wazzin: Set the time to 1000]
+[22:15:57] [Async Chat Thread - #0/INFO]: <skketik> habro hilo com mi amigo me prostituyo en una jaula
+[22:17:46] [Server thread/INFO]: guater4feo was slain by skketik
+[22:17:58] [Server thread/INFO]: Rip_wazzin issued server command: /tp guater4feo Rip_wazzin
+[22:17:58] [Server thread/INFO]: [Rip_wazzin: Teleported guater4feo to Rip_wazzin]
+[22:24:07] [Server thread/INFO]: Rip_wazzin issued server command: /reload confirm
+[22:24:07] [Server thread/INFO]: Rip_wazzin: Please note that this command is not supported and may cause issues when using some plugins.
+[22:24:07] [Server thread/INFO]: Rip_wazzin: If you encounter any issues please use the /stop command to restart your server.
+[22:24:07] [Server thread/INFO]: Debug logging is disabled
+[22:24:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:24:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:24:07] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[22:24:08] [Server thread/INFO]: Loaded 7 recipes
+[22:24:09] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[22:24:09] [Server thread/INFO]: Loaded 7 recipes
+[22:24:10] [Server thread/INFO]: [PvPManager] Loading 2 libraries... please wait
+[22:24:10] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/4.0.3/HikariCP-4.0.3.pom
+[22:24:10] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+[22:24:10] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.pom
+[22:24:10] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/2.0.0-alpha1/slf4j-parent-2.0.0-alpha1.pom
+[22:24:10] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.pom
+[22:24:11] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/2.0.13/slf4j-parent-2.0.13.pom
+[22:24:11] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-bom/2.0.13/slf4j-bom-2.0.13.pom
+[22:24:11] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: Downloading https://repo.maven.apache.org/maven2/com/zaxxer/HikariCP/4.0.3/HikariCP-4.0.3.jar
+[22:24:11] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar
+[22:24:11] [Server thread/INFO]: [PvPManager] Loaded library /workspaces/Server-Fernando/servidor_minecraft/libraries/com/zaxxer/HikariCP/4.0.3/HikariCP-4.0.3.jar
+[22:24:11] [Server thread/INFO]: [PvPManager] Loaded library /workspaces/Server-Fernando/servidor_minecraft/libraries/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar
+[22:24:11] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[22:24:11] [Server thread/INFO]: [SternalBoard] Loading SternalBoard v2.3.0
+[22:24:11] [Server thread/INFO]: [PlayerTimeLimit] Loading PlayerTimeLimit v1.6.1
+[22:24:11] [Server thread/INFO]: [ConditionalEvents] Loading ConditionalEvents v4.58.1
+[22:24:11] [Server thread/INFO]: [PvPManager] Loading PvPManager v3.18.26
+[22:24:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:24:11] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[22:24:11] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[22:24:11] [Server thread/INFO]: [SternalBoard] Enabling SternalBoard v2.3.0
+[22:24:11] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-legacy
+[22:24:11] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-legacy/4.17.0/adventure-text-serializer-legacy-4.17.0.jar
+[22:24:11] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/9.2/asm-commons-9.2.jar
+[22:24:11] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/org/ow2/asm/asm/9.2/asm-9.2.jar
+[22:24:11] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/me/lucko/jar-relocator/1.7/jar-relocator-1.7.jar
+[22:24:11] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-legacy-4.17.0.jar
+[22:24:11] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-plain
+[22:24:11] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-plain/4.17.0/adventure-text-serializer-plain-4.17.0.jar
+[22:24:11] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-plain-4.17.0.jar
+[22:24:11] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json
+[22:24:11] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-json/4.17.0/adventure-text-serializer-json-4.17.0.jar
+[22:24:11] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-json-4.17.0.jar
+[22:24:11] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-ansi
+[22:24:11] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-ansi/4.17.0/adventure-text-serializer-ansi-4.17.0.jar
+[22:24:11] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-ansi-4.17.0.jar
+[22:24:11] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson
+[22:24:11] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-gson/4.17.0/adventure-text-serializer-gson-4.17.0.jar
+[22:24:11] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-gson-4.17.0.jar
+[22:24:11] [Server thread/INFO]: [SternalBoard] Loading library adventure-nbt
+[22:24:11] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-nbt/4.17.0/adventure-nbt-4.17.0.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-nbt-4.17.0.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-json-legacy-impl
+[22:24:12] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-json-legacy-impl/4.17.0/adventure-text-serializer-json-legacy-impl-4.17.0.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-json-legacy-impl-4.17.0.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-serializer-gson-legacy-impl
+[22:24:12] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.17.0/adventure-text-serializer-gson-legacy-impl-4.17.0.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-serializer-gson-legacy-impl-4.17.0.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Loading library adventure-text-minimessage
+[22:24:12] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-text-minimessage/4.17.0/adventure-text-minimessage-4.17.0.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-text-minimessage-4.17.0.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Loading library adventure-api
+[22:24:12] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-api/4.17.0/adventure-api-4.17.0.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-api-4.17.0.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Loading library examination-api
+[22:24:12] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Relocations applied to examination-api-1.3.0.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-api
+[22:24:12] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-platform-api/4.3.3/adventure-platform-api-4.3.3.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-platform-api-4.3.3.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-bukkit
+[22:24:12] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-platform-bukkit/4.3.3/adventure-platform-bukkit-4.3.3.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-platform-bukkit-4.3.3.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Loading library adventure-platform-facet
+[22:24:12] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-platform-facet/4.3.3/adventure-platform-facet-4.3.3.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-platform-facet-4.3.3.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Loading library adventure-key
+[22:24:12] [Server thread/INFO]: [SternalBoard] Downloaded library https://repo1.maven.org/maven2/net/kyori/adventure-key/4.17.0/adventure-key-4.17.0.jar
+[22:24:12] [Server thread/INFO]: [SternalBoard] Relocations applied to adventure-key-4.17.0.jar
+[22:24:12] [Server thread/INFO]: [PlayerTimeLimit] Enabling PlayerTimeLimit v1.6.1
+[22:24:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: playertimelimit [1.6.1]
+[22:24:12] [Server thread/INFO]: [PlayerTimeLimit] Has been enabled! Version: 1.6.1
+[22:24:12] [Server thread/INFO]: [PlayerTimeLimit] Thanks for using my plugin!  ~Ajneb97
+[22:24:12] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.58.1
+[22:24:12] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.58.1]
+[22:24:13] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.58.1
+[22:24:13] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[22:24:13] [Server thread/INFO]: [PvPManager] Enabling PvPManager v3.18.26
+[22:24:13] [Server thread/INFO]: [PvPManager] New config file created successfully!
+[22:24:13] [Server thread/INFO]: [PvPManager] Using player nametags: true
+[22:24:13] [Server thread/INFO]: [PvPManager] New messages file created successfully!
+[22:24:13] [Server thread/INFO]: [PvPManager] Connected to SQLITE database successfully
+[22:24:13] [Server thread/INFO]: [PvPManager] Players stored: 0
+[22:24:13] [Server thread/WARN]: [PvPManager] Vault not found! Features requiring Vault won't work!
+[22:24:13] [Server thread/INFO]: [PvPManager] PlaceholderAPI Found! Hooked successfully
+[22:24:13] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: pvpmanager [3.18.26]
+[22:24:13] [Server thread/ERROR]: [PvPManager] You appear to be using Java 15 or lower. For now the plugin still works but please update to Java 16+
+[22:24:13] [Server thread/ERROR]: [PvPManager] In the future PvPManager will stop supporting Java versions this old
+[22:24:13] [Server thread/INFO]: [PvPManager] PvPManager v3.18.26 enabled (264 ms)
+[22:24:13] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[22:24:13] [Server thread/INFO]: Rip_wazzin: Reload complete.
+[22:24:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5509ms or 110 ticks behind
+[22:24:13] [Server thread/INFO]: Timings Reset
+[22:24:13] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[22:24:16] [PvPManager Worker Thread - 0/INFO]: [PvPManager] Checking for updates...
+[22:24:16] [PvPManager Worker Thread - 0/INFO]: [PvPManager] No update found
+[22:24:52] [Server thread/INFO]: Rip_wazzin issued server command: /papi ecloud download ScoreboardObjectives
+[22:24:52] [placeholderapi-io-#0/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[22:24:55] [Server thread/INFO]: Rip_wazzin issued server command: /papi reload
+[22:24:55] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[22:24:55] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[22:24:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: objective [4.2.0]
+[22:25:42] [Server thread/INFO]: Rip_wazzin issued server command: /minecraft:scoreboard objectives add vidas dummy
+[22:25:42] [Server thread/INFO]: [Rip_wazzin: Created new objective [vidas]]
+[22:26:01] [Server thread/INFO]: Stopping the server
+[22:26:01] [Server thread/INFO]: Stopping server
+[22:26:01] [Server thread/INFO]: [PvPManager] Disabling PvPManager v3.18.26
+[22:26:01] [Server thread/INFO]: [PvPManager] Saving player data to storage...
+[22:26:01] [Server thread/INFO]: [PvPManager] Closed SQLITE storage
+[22:26:01] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.58.1
+[22:26:01] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.58.1
+[22:26:01] [Server thread/INFO]: [PlayerTimeLimit] Disabling PlayerTimeLimit v1.6.1
+[22:26:01] [Server thread/INFO]: [PlayerTimeLimit] Has been disabled! Version: 1.6.1
+[22:26:01] [Server thread/INFO]: [SternalBoard] Disabling SternalBoard v2.3.0
+[22:26:01] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[22:26:01] [Server thread/INFO]: Saving players
+[22:26:01] [Server thread/INFO]: Rip_wazzin lost connection: Server closed
+[22:26:01] [Server thread/INFO]: Rip_wazzin left the game
+[22:26:01] [Server thread/INFO]: skketik lost connection: Server closed
+[22:26:01] [Server thread/INFO]: skketik left the game
+[22:26:01] [Server thread/INFO]: guater4feo lost connection: Server closed
+[22:26:01] [Server thread/INFO]: guater4feo left the game
+[22:26:01] [Server thread/INFO]: Saving worlds
+[22:26:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:26:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:26:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:26:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:26:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:26:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:26:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:26:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:26:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:26:01] [Server thread/INFO]: Flushing Chunk IO
+[22:26:01] [Server thread/INFO]: Closing Thread Pool
+[22:26:01] [Server thread/INFO]: Closing Server
